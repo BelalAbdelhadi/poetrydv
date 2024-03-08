@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+#react-entry-point {
+width: 80%;
+margin: 0 auto;
+text-align: center;
+    font-family: 'Roboto', sans-serif;
+}
+
+.Select-menu-outer {
+    color: black;
+    }
+
+body {
+    margin: 0 auto;
+    background-color: black;
+    color: whitesmoke;
+
+}
+
+#timeseries_dropdown .VirtualizedSelectFocusedOption{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+}
+
+#timeseries_dropdown {
+    width: 20%;
+    margin: 0 auto;
+
+}
+
+#timeseries_radio {
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+}
+
+#year_compare_checklist{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+}
+
+#shares_dropdown .VirtualizedSelectFocusedOption{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+}
+
+#shares_dropdown {
+    width: 20%;
+    margin: 0 auto;
+}
+
+#shares_radio{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+}
+
+#shares_top{
+    background-color: black;
+    color: white;
+    margin: 0 auto;
+}
+
+#shares_top, #year_compare_checklist, #timeseries_radio {
+    margin-bottom: 7px;
+}
